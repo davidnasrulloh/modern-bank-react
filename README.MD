@@ -12,4 +12,4 @@ Latihan mecoba slicing ui dari figma pada tutorial : https://www.youtube.com/wat
 4. Run the project by typing `npm run dev`
 5. Happy Testing
 
-#### Link deploy :
+#### Link deploy : https://modern-bank-david.netlify.app/

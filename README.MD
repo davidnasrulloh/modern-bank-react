@@ -1,6 +1,8 @@
 # Learn React Tutorial Modern Bank Landing Page
 
-Latihan mecoba slicing ui dari figma pada tutorial : https://www.youtube.com/watch?v=_oO4Qi5aVZs&ab_channel=JavaScriptMastery
+Latihan mecoba slicing ui dari figma pada youtube tutorial : https://www.youtube.com/watch?v=_oO4Qi5aVZs&ab_channel=JavaScriptMastery
+
+Detail project you can see at  insight -> Network, I try this exercise when spare time only
 
 ### How to Run?
 
